@@ -7,8 +7,14 @@ Practice obj = new Practice();
 // obj.swapwithtemp();
 // obj.swapwithouttemp();
 // obj.SumOfGivenDigit();
-obj.CheckPrimeNumber();
-obj.prime1();
+// obj.CheckPrimeNumber();
+// obj.prime1();
+// obj.CapitalLetter();
+// obj.SmallLetter();
 
 QuestionSolution check = new QuestionSolution();
-//check.PresAbs();
+// check.PresAbs();
+// check.PresAbs1();
+// check.listoflist();
+CorporateCustomer cc = new CorporateCustomer();
+Console.WriteLine(cc.ID);

@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\CsharpProject",
-    "\\CsharpProject\\ClassLibrary1"
+    "\\CsharpProject\\ClassLibrary1",
+    "\\CsharpProject\\QuestionSolution"
   ],
-  "SelectedNode": "\\CsharpProject\\ClassLibrary1\\Class1.cs",
+  "SelectedNode": "\\CsharpProject\\CsharpProject.sln",
   "PreviewInSolutionExplorer": false
 }
